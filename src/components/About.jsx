@@ -13,24 +13,19 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <p className="text-xl mt-20"> 
+          Assim que concluí o ensino médio me veio na cabeça o que eu queria fazer da vida,
+          depois de pesquisar sobre todas a profissões possíveis, fiquei encantado do que eu poderia
+          fazer com a programação.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+         De imediato procurei um curso no youtube, aprendi Python. Com Python crie programas para calcular o imc 
+         de uma pessoa, o fatorial de um número etc. Depois de concluir o curso de python fui aprender desenvolvimento web,
+         para web estudei desde a parte front end, passando segurança web e agora estudo um pouco de back end.
+
         </p>
       </div>
     </div>
